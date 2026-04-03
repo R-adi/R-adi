@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[![An image of @adi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adi)](https://holopin.io/@adi)
-
 # 💫 About Me:
 🔭 I’m currently working at LTIMindtree<br>🤝 I’m looking for help with skill enhancement<br>🌱 I’m currently learning CI/CD <br>💬 Ask me about my projects
 
@@ -26,3 +24,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=R-adi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+[![An image of @adi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adi)](https://holopin.io/@adi)
